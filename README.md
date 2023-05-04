@@ -13,6 +13,15 @@
   * I learned C to add optimizations to my reinforcement learning projects, as the Python APIs for the linear program solver that we use are slow for our applications.
   * I learned and used NodeJS, Angular, and Javascript in a contract web development and machine learning project to introduce a front-end for clients to manually label training data for model development.
 
+## My Projects
+
+I've engaged in a lot of projects over my 5+ years of development.
+Unfortunately, many of my worthwhile projects are contained in private repositories.
+While not all of them can be made public, I've been slowly extracting code that I can share with the public.
+
+* You can checkout [this repository](https://github.com/rhelmeczi/itlp-cpomdp) for some of my work on using linear programming for reinforcement learning.
+  Our work ultimately resulted in a journal publication, so I've added a small sample of the code there.
+
 ## My Current Plans
 
 * I'm just finishing up my thesis and, if all goes well, I will be finished school at the end of April, 2023.
