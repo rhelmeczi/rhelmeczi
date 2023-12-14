@@ -28,7 +28,16 @@ While not all of them can be made public, I've been slowly extracting code that 
 
 ## My Current Plans
 
-* I'm currently looking for work as either a machine learning engineer or a software developer. While my thesis was is in natural language processing, I have experience in deep learning with neural networks, as well as in reinforcement learning.
+* I currently work as a machine learning engineer, managing projects from conception through to deployment. In this process I handle
+  - Problem conception
+  - Problem elaboration
+  - Model conception and design
+  - Model implemention
+  - Data collection, feature engineering, data labeling (including few-shot labeling)
+  - Model training
+  - Model deployment (i.e., ML Ops), especially via AWS
+  - Monitoring of deployments
+* In addition to my machine learning work, I also act as an engineer to create user interfaces to create environments where deployed models can be tested by key stakeholders, customers, clients, as well as for internal use.
 * For a more formal look at my work and education history, you can checkout my [LinkedIn Profile](https://www.linkedin.com/in/kraighelmeczi/).
 
 <!--
