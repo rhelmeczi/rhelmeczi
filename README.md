@@ -5,7 +5,7 @@
 * I'm a machine learning engineer and software developer, and I've recently completed a Master's degree in Data Science and Analytics at Toronto Metropolitan University (formerly Ryerson University).
 * I studied Physics in undergrad and finished with the highest average across all faculties in my school, earning a [Governor General's Silver Medal](https://brocku.ca/brock-news/2020/10/physics-grads-earn-governor-general-silver-medals-at-fall-convocation/).
 * My thesis was an investigation into the state-of-the-art few-shot learning methods for text classification. We compared the performance of [Hugging Face](https://huggingface.co) transformer models and few-shot learning algorithms when applied to training data sets with limited labeled examples.
-* In my two year Master's degree I have first authored four publications: two in reinforcement learning and two in natural language processing using few-shot learning. You can check out my [Google Scholar](https://scholar.google.ca/citations?user=41uOLbMAAAAJ&hl=en) to view some available pre-prints/publications (note that two of the publications are currently in press).
+* In my two year Master's degree I have first authored four publications: two in reinforcement learning and two in natural language processing using few-shot learning. You can check out my [Google Scholar](https://scholar.google.ca/citations?user=41uOLbMAAAAJ&hl=en) to view some available pre-prints/publications.
 
 ## My Projects
 
