@@ -7,6 +7,21 @@
 * My thesis was an investigation into the state-of-the-art few-shot learning methods for text classification. We compared the performance of [Hugging Face](https://huggingface.co) transformer models and few-shot learning algorithms when applied to training data sets with limited labeled examples.
 * In my two year Master's degree I have first authored four publications: two in reinforcement learning and two in natural language processing using few-shot learning. You can check out my [Google Scholar](https://scholar.google.ca/citations?user=41uOLbMAAAAJ&hl=en) to view some available pre-prints/publications.
 
+## My Current Work
+
+* I currently work as a machine learning engineer, managing projects from conception through to deployment. In this process I handle
+  - Problem conception
+  - Problem elaboration
+  - Model conception and design
+  - Model implemention
+  - Data collection, feature engineering, data labeling (including few-shot labeling)
+  - Model training
+  - Model deployment (i.e., ML Ops), especially via AWS
+  - Monitoring of deployments
+* In addition to my machine learning work, I also act as an engineer to create user interfaces to create environments where deployed models can be tested by key stakeholders, customers, clients, as well as for internal use.
+* For a more formal look at my work and education history, you can checkout my [LinkedIn Profile](https://www.linkedin.com/in/kraighelmeczi/).
+
+
 ## My Projects
 
 I've engaged in a lot of projects over my 5+ years of development.
@@ -25,20 +40,6 @@ While not all of them can be made public, I've been slowly extracting code that 
  * I've been solving problems with Rust since 2020.
  * I learned C to add optimizations to my reinforcement learning projects, as the Python APIs for the linear program solver that we use are slow for our applications.
  * I learned and used NodeJS, Angular, and Javascript in a contract web development and machine learning project to introduce a front-end for clients to manually label training data for model development.
-
-## My Current Plans
-
-* I currently work as a machine learning engineer, managing projects from conception through to deployment. In this process I handle
-  - Problem conception
-  - Problem elaboration
-  - Model conception and design
-  - Model implemention
-  - Data collection, feature engineering, data labeling (including few-shot labeling)
-  - Model training
-  - Model deployment (i.e., ML Ops), especially via AWS
-  - Monitoring of deployments
-* In addition to my machine learning work, I also act as an engineer to create user interfaces to create environments where deployed models can be tested by key stakeholders, customers, clients, as well as for internal use.
-* For a more formal look at my work and education history, you can checkout my [LinkedIn Profile](https://www.linkedin.com/in/kraighelmeczi/).
 
 <!--
 **rhelmeczi/rhelmeczi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
