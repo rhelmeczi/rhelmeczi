@@ -18,7 +18,7 @@
   - Model training
   - Model deployment (i.e., ML Ops), especially via AWS
   - Monitoring of deployments
-* In addition to my machine learning work, I also act as an engineer to create user interfaces to create environments where deployed models can be tested by key stakeholders, customers, clients, as well as for internal use.
+* In addition to my machine learning work, I also act as an engineer to create user interfaces to create environments where deployed models can be tested by key stakeholders, clients, and by internal staff (often client-facing).
 * For a more formal look at my work and education history, you can checkout my [LinkedIn Profile](https://www.linkedin.com/in/kraighelmeczi/).
 
 
